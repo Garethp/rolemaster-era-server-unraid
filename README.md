@@ -1,2 +1,2 @@
-# rollmaster-era-server-unraid
-The unraid repository for the Rollmaster ERA Server Docker Container
+# Rollmaster ERA Server Unraid Configuration
+This is the repository for the Unraid configuration of the [Rollmaster ERA Server Docker Container](https://hub.docker.com/r/blackfireweb/rollmaster-era-server)
