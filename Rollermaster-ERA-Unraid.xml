@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <Container version="2">
-    <Name>Rollmaster-ERA-Server</Name>
-    <Repository>blackfireweb/rollmaster-era-server</Repository>
-    <Registry>https://registry.hub.docker.com/r/blackfireweb/rollmaster-era-server</Registry>
+    <Name>Rolemaster-ERA-Server</Name>
+    <Repository>blackfireweb/rolemaster-era-server</Repository>
+    <Registry>https://registry.hub.docker.com/r/blackfireweb/rolemaster-era-server</Registry>
     <Network>bridge</Network>
     <MyIP/>
     <Shell>sh</Shell>
     <Privileged>false</Privileged>
-    <Support>https://forums.unraid.net/topic/168314-support-rollmaster-era-server/</Support>
+    <Support>https://forums.unraid.net/topic/168314-support-rolemaster-era-server/</Support>
     <Project>https://www.drivethrurpg.com/en/product/137825/ERA-for-Rolemaster</Project>
     <Overview>This allows hosting the Linux version of Rollmasters ERA as a server.</Overview>
     <Category>Tools:</Category>
     <WebUI>http://[IP]:[PORT:7777]/</WebUI>
     <TemplateURL/>
-    <Icon>https://raw.githubusercontent.com/Garethp/rollmaster-era-server-unraid/main/era.ico</Icon>
+    <Icon>https://raw.githubusercontent.com/Garethp/rolemaster-era-server-unraid/main/era.ico</Icon>
     <ExtraParams/>
     <PostArgs/>
     <CPUset/>
